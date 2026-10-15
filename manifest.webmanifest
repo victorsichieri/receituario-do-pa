@@ -1,6 +1,6 @@
 {
-  "name": "Receituário do Plantão",
-  "short_name": "Receituário",
+  "name": "Receituário do PA",
+  "short_name": "Receituário PA",
   "description": "Prescrições e condutas de pronto atendimento para copiar e colar.",
   "start_url": "./",
   "scope": "./",

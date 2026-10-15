@@ -1,4 +1,4 @@
-# Receituário do Plantão
+# Receituário do PA
 
 Prescrições e condutas de pronto atendimento separadas por queixa/patologia, prontas para copiar e colar no sistema da unidade.
 
