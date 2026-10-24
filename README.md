@@ -6,6 +6,7 @@ Prescrições e condutas de pronto atendimento separadas por queixa/patologia, p
 - Seleção só dos medicamentos desejados (a via de uso entra junto na cópia)
 - Sinais de alarme e orientações para o prontuário
 - Favoritas salvas no navegador
+- Calculadora de infusão pelo peso (dose ⇄ mL/h) em Drogas vasoativas, Choque séptico e Choque hipovolêmico
 - Instalável no celular (PWA) e funciona offline depois do primeiro acesso
 
 Uso de referência para profissionais de saúde. Confira doses e indicações antes de prescrever.
