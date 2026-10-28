@@ -7,6 +7,7 @@ Prescrições e condutas de pronto atendimento separadas por queixa/patologia, p
 - Sinais de alarme e orientações para o prontuário
 - Favoritas salvas no navegador
 - Calculadora de infusão pelo peso (dose ⇄ mL/h) em Drogas vasoativas, Choque séptico e Choque hipovolêmico
+- Aba SAMU: drogas de urgência do adulto com diluição, dose, via e cálculo da dose em mL pelo peso
 - Instalável no celular (PWA) e funciona offline depois do primeiro acesso
 
 Uso de referência para profissionais de saúde. Confira doses e indicações antes de prescrever.
